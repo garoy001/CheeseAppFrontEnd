@@ -1,6 +1,6 @@
 import { redirect } from 'react-router-dom';
 
-const URL = 'http://localhost:4000';
+const URL = 'benevolent-blancmange-12965f.netlify.app';
 
 export const createAction = async ({ request }) => {
 	const formData = await request.formData();
