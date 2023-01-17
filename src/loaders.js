@@ -1,4 +1,4 @@
-const URL = 'https://benevolent-blancmange-12965f.netlify.app';
+const URL = 'turmgrcheesebe.netlify.app';
 
 export const cheesesLoader = async () => {
 	const response = await fetch(URL + '/cheese');
