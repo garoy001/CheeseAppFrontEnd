@@ -1,3 +1,4 @@
+import React from 'react';
 const URL = 'http://localhost:4000';
 
 export const cheesesLoader = async () => {
