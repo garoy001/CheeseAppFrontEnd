@@ -1,4 +1,4 @@
-const URL = 'https://turmgrcheesebe.netlify.app';
+const URL = 'https://cheeselabbackend002.onrender.com';
 
 export const cheesesLoader = async () => {
 	const response = await fetch(URL + '/cheese');

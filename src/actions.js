@@ -1,6 +1,6 @@
 import { redirect } from 'react-router-dom';
 
-const URL = 'http://turmgrcheesebe.netlify.app';
+const URL = 'https://cheeselabbackend002.onrender.com';
 
 export const createAction = async ({ request }) => {
 	const formData = await request.formData();
