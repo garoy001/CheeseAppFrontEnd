@@ -1,4 +1,3 @@
-import React from 'react';
 import { redirect } from 'react-router-dom';
 
 const URL = 'benevolent-blancmange-12965f.netlify.app';

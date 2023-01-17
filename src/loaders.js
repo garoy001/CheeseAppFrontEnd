@@ -1,5 +1,4 @@
-import React from 'react';
-const URL = 'http://localhost:4000';
+const URL = 'https://benevolent-blancmange-12965f.netlify.app';
 
 export const cheesesLoader = async () => {
 	const response = await fetch(URL + '/cheese');
